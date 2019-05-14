@@ -1,0 +1,18 @@
+.git
+
+# Vendor files
+node_modules
+firebase-debug.log
+package-lock.json
+.runtimeconfig.json
+.DS_Store
+
+# functions
+functions/.env
+functions/.runtimeconfig.json
+functions/.DS_Store
+functions/lib
+
+.firebaserc
+
+ngrok
